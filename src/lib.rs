@@ -1,4 +1,4 @@
-mod IPDecoder;
+mod ipdecoder;
 
 #[cfg(test)]
 mod tests {
